@@ -83,14 +83,17 @@
 
 /* Typewriting affect */
 .typewriter {
-  /* width: auto; */
+  /* width: -moz-fit-content; */
+  /* width: 200px; */
+  /* display: table; */
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: .15em solid #212529; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
-  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  margin: 0 auto; 
+  /* Gives that scrolling effect as the typing happens */
   /* letter-spacing: .15em; Adjust as needed */
   animation: 
-    typing 3.5s steps(40, end),
+    typing 1.1s steps(13, end),
     blink-caret .75s step-end infinite;
 }
 
@@ -107,6 +110,11 @@
 }
 
 
+/* h1 {
+  width: -moz-fit-content;
+  width: fit-content;
+  display: table;
+} */
 
 
 
