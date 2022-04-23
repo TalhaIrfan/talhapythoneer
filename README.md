@@ -10,8 +10,8 @@ I can scrape any website e.g Dynamic (JavaScript / Ajax-based) websites, Login R
 My development skillset revolves around Django and React JS. I have built different web projects including management systems, messengers, ML apps, and one-page portfolios or company websites.
 
 I have a strong grip on:
-- Scrapy, Splash, Selenium, Requests, BeaitufulSoup, Pandas and Numpy
+- Python, Scrapy, Splash, Selenium, Requests, BeaitufulSoup, Pandas and Numpy
 - HTML, CSS, Bootstrap, React JS and Django
 
 I am also skilled with:
-- Python, C++, JAVA, JavaScript, Dart, HTML/CSS
+- C++, JAVA, JavaScript, Dart, HTML/CSS
