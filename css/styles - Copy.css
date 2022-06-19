@@ -33,8 +33,9 @@
   --bs-gray-700: #495057;
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
-  --bs-primary: #1abc9c;
+  --bs-primary: #1abc50;
   --bs-secondary: #2c3e50;
+  
   --bs-success: #198754;
   --bs-info: #0dcaf0;
   --bs-warning: #ffc107;
@@ -43,6 +44,7 @@
   --bs-dark: #212529;
   --bs-primary-rgb: 26, 188, 156;
   --bs-secondary-rgb: 44, 62, 80;
+
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
   --bs-warning-rgb: 255, 193, 7;
@@ -119,6 +121,7 @@
 
 
  /* For Maps End  */
+
 
 
 
@@ -291,7 +294,7 @@ blockquote {
 
 b,
 strong {
-  font-weight: bold;
+  font-weight: bolder;
 }
 
 small, .small {
@@ -321,7 +324,7 @@ sup {
 
 a {
   color: #1abc9c;
-  text-decoration: none;
+  text-decoration: underline;
 }
 a:hover {
   color: #15967d;
@@ -11607,7 +11610,7 @@ html {
 }
 
 .masthead {
-  padding-top: calc(6rem + 40px);
+  padding-top: calc(6rem + 74px);
   padding-bottom: 6rem;
 }
 .masthead .masthead-heading {
@@ -11623,7 +11626,7 @@ html {
 
 @media (min-width: 992px) {
   .masthead {
-    padding-top: calc(6rem + 75px);
+    padding-top: calc(6rem + 104px);
     padding-bottom: 6rem;
   }
   .masthead .masthead-heading {
@@ -11656,7 +11659,7 @@ html {
 
 .portfolio-image {
   /* specify size */
-  width: 70%;
+  width: 90%;
 }
 
 .portfolio .portfolio-item .portfolio-item-caption {
